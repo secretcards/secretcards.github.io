@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- example file containing base tags -->
+
+
+
+<game>	
+
+	<title>Secret Cards</title>
+
+	<founding-date>August 8, 2016</founding-date>
+
+	<website>http://deckofsecret.cards</website>
+
+	<based-in>California, USA</based-in>
+
+	
+
+	<press-contact>deckofsecretcards@gmail.com</press-contact>
+
+	<phone>Available Upon Request</phone>
+
+
+
+	<socials>
+
+		<social>
+
+			<name>twitter.com/SecretCardsDev</name>
+
+			<link>twitter.com/SecretCardsDev</link>
+
+		</social>
+
+		<social>
+
+			<name>facebook.com/deckofsecretcards</name>
+
+			<link>facebook.com/deckofsecretcards</link>
+
+		</social>
+
+	</socials>
+
+
+
+	<description>	
+
+		The Secret Cards team aims to create cerebral experiences that will make the audience think. The studios is composed of three artistic game enthusiasts who have been both players and developers. 
+		
+	</description>
+
+		
+
+	<histories>
+
+		<history>
+
+			<header>Early history</header>
+
+			<text>We officially became an internet entity in 2016. We hope to grow and expand in the future.</text>
+
+		</history>
+
+
+	</histories>
+
+		
+
+	<trailers>
+
+		<trailer>
+
+			<name>Splashscreen</name>
+
+			<youtube>79XsyHuPVx8</youtube>
+
+		</trailer>
+
+
+	</trailers>
+
+	
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+
+	<monetization-permission>ask</monetization-permission> <!-- can be: 	false (no video allowed),
+
+																			 	ask (permission on case-per-case basis),
+
+																			 	non-commercial (no monetization allowed),
+
+																			 	monetize (full permission) -->	
+
+	
+
+	<credits>
+
+		<credit>
+
+			<person>Solarian</person>
+			
+			<website>https://twitter.com/Eight8Diamonds</website>
+
+			<role>Project lead, programmer, and head of development. </role>
+
+		</credit>
+
+		<credit>
+
+			<person>Morgana</person>
+
+			<website>https://twitter.com/MysteryCorgi</website>
+
+			<role>Head of marketing, assistant GUI artist, and financial advisor</role>
+
+		</credit>
+
+		<credit>
+
+			<person>Zeta</person>
+
+			<website>https://twitter.com/lovesickjackal</website>
+
+			<role>Lead artist, character designer, and director of aesthetics</role>
+
+		</credit>
+		
+		<credit>
+
+			<person>Val</person>
+
+			<website>https://khoven.bandcamp.com/</website>
+
+			<role>Freelance Music Composer</role>
+
+		</credit>
+
+	</credits>
+
+	
+
+	<contacts>
+
+		<contact>
+
+			<name>Inquiries</name>
+
+			<mail>deckofsecretcards@gmail.com</mail>
+
+		</contact>
+
+		<contact>
+
+			<name>Twitter</name>
+
+			<link>http://twitter.com/SecretCardsDev</link>
+
+		</contact>
+
+		<contact>
+
+			<name>Facebook</name>
+
+			<link>http://facebook.com/deckofsecretcards</link>
+
+		</contact>
+
+		<contact>
+
+			<name>Web</name>
+
+			<link>http://deckofsecret.cards</link>
+
+		</contact>
+
+	</contacts>
+
+</game>
