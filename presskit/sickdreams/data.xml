@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<game>
+
+	<title>Sick Dreams</title>
+
+	<release-date>September 16, 2016</release-date>
+
+	<website>http://sickdreamsgame.tumblr.com/</website>
+
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+
+
+	<platforms>
+
+		<platform>
+
+			<name>Itch.io</name>
+
+			<link>https://secretcards.itch.io/sick-dreams</link>
+
+		</platform>
+
+	</platforms>
+
+	
+
+	<prices>
+
+		<price>
+
+			<currency>USD</currency>
+
+			<value>TBA</value>
+
+		</price>
+
+	</prices>
+
+
+
+	<description>
+
+	Summary
+
+	Sick Dreams is a bullet hell visual novel that follows the story of a young individual as they describe their dreams and reflect on their waking life. In their dreams, they struggle with the difficulties they face in life, not yet knowing that they have an undiagnosed condition.
+
+	Gameplay
+
+	The gameplay is a Shoot 'Em Up styled Bullet Hell with Visual Novel Aspects to tell the narrative. The player must guide the protagonist through their dreams, allowing the protagonist to come to terms with reality. Upgrades can be bought with Lucidity as the player progresses.
+
+	</description>
+
+	
+
+	<history>
+
+	History here
+
+
+	</history>
+
+
+
+	<features>
+
+		<feature>Shoot-em-Up Bullethell Action</feature>
+		<feature>Visual Novel Storytelling</feature>
+		<feature>Aesthetics by Upcoming Artist</feature>
+		<feature>Ambient and Atmospheric Music </feature>
+		
+
+	</features>
+
+
+</game>
