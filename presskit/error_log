@@ -1,8 +1,0 @@
-[06-Nov-2015 15:22:02] PHP Warning:  opendir(aidol/images) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 606
-[06-Nov-2015 15:22:02] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 624
-[06-Nov-2015 15:24:04] PHP Warning:  opendir(aidol/images) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 606
-[06-Nov-2015 15:24:04] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 624
-[06-Nov-2015 15:27:52] PHP Warning:  opendir(aidol/images) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 606
-[06-Nov-2015 15:27:52] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 624
-[06-Nov-2015 15:29:32] PHP Warning:  opendir(aidol/images) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 606
-[06-Nov-2015 15:29:32] PHP Warning:  closedir(): supplied argument is not a valid Directory resource in /home2/lzavsek/public_html/aidol.vnovel.com/press/sheet.php on line 624
