@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #000009;
-	background-color: #9C9D37;
+	color: #0000F0;
+	background-color: #FB5E28;
 }
 
 .html
@@ -158,6 +158,7 @@
 #u164-4
 {
 	z-index: 38;
+	width: 137px;
 	margin-right: -10000px;
 	margin-top: 94px;
 	left: 1085px;

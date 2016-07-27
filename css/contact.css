@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000000;
-	background-color: #D0733A;
+	color: #0000FE;
+	background-color: #3478C8;
 }
 
 .html
@@ -158,6 +158,7 @@
 #u164-4
 {
 	z-index: 38;
+	width: 137px;
 	margin-right: -10000px;
 	margin-top: 94px;
 	left: 1085px;

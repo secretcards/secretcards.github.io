@@ -1,13 +1,13 @@
-<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="deckofsecret.cards" resolutions="1x" timestamp="1469595431125">
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="deckofsecret.cards" resolutions="1x" timestamp="1469595730518">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="414256950" ref="contact:games:sick-dreams:index:blog:team"/>
-    <file name="contact.css" crc="13660986" ref="contact"/>
-    <file name="games.css" crc="123546809" ref="games"/>
-    <file name="sick-dreams.css" crc="72272457" ref="sick-dreams"/>
-    <file name="index.css" crc="342684640" ref="index"/>
-    <file name="blog.css" crc="161258807" ref="blog"/>
-    <file name="team.css" crc="527962075" ref="team"/>
+    <file name="master_a-master.css" crc="197507560" ref="blog:team:index:games:contact:sick-dreams"/>
+    <file name="blog.css" crc="4043005480" ref="blog"/>
+    <file name="team.css" crc="193776453" ref="team"/>
+    <file name="index.css" crc="379489735" ref="index"/>
+    <file name="games.css" crc="4286802585" ref="games"/>
+    <file name="contact.css" crc="4264851656" ref="contact"/>
+    <file name="sick-dreams.css" crc="155585919" ref="sick-dreams"/>
   </folder>
   <folder name="scripts">
     <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>team:tablet>games:tablet>contact"/>
@@ -60,20 +60,20 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="team.css" crc="432531808" ref="tablet>team"/>
-      <file name="index.css" crc="432531808" ref="tablet>index"/>
       <file name="games.css" crc="432531808" ref="tablet>games"/>
       <file name="contact.css" crc="432531808" ref="tablet>contact"/>
+      <file name="index.css" crc="432531808" ref="tablet>index"/>
+      <file name="team.css" crc="432531808" ref="tablet>team"/>
     </folder>
     <file name="index.html" crc="3955672654" seo="true" mt="1469567757630" redirect="false"/>
     <file name="team.html" crc="3840873151" seo="true" mt="1469567757631" redirect="false"/>
     <file name="games.html" crc="509896151" seo="true" mt="1469567757632" redirect="false"/>
     <file name="contact.html" crc="14912455" seo="true" mt="1469567757633" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3804527979" seo="true" mt="1469567757582" redirect="true"/>
-  <file name="team.html" crc="4114651618" seo="true" mt="1469567757583" redirect="true"/>
-  <file name="games.html" crc="4014708765" seo="true" mt="1469567757584" redirect="true"/>
-  <file name="contact.html" crc="3893456800" seo="true" mt="1469595327987" redirect="true"/>
-  <file name="blog.html" crc="3821290597" seo="true" mt="1469567782572" redirect="true"/>
-  <file name="sick-dreams.html" crc="4056200308" seo="true" mt="1469567757628" redirect="true"/>
+  <file name="index.html" crc="3897483592" seo="true" mt="1469595704335" redirect="true"/>
+  <file name="team.html" crc="3999546641" seo="true" mt="1469595704335" redirect="true"/>
+  <file name="games.html" crc="4157901432" seo="true" mt="1469595704335" redirect="true"/>
+  <file name="contact.html" crc="171803628" seo="true" mt="1469595704335" redirect="true"/>
+  <file name="blog.html" crc="65625611" seo="true" mt="1469595704335" redirect="true"/>
+  <file name="sick-dreams.html" crc="4016927133" seo="true" mt="1469595704335" redirect="true"/>
 </manifest>
