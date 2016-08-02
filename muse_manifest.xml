@@ -1,0 +1,79 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="deckofsecret.cards" resolutions="1x" timestamp="1470097628508">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="197507560" ref="blog:index:games:contact:team:sick-dreams"/>
+    <file name="blog.css" crc="4043005480" ref="blog"/>
+    <file name="index.css" crc="379489735" ref="index"/>
+    <file name="games.css" crc="4002997843" ref="games"/>
+    <file name="contact.css" crc="4223017672" ref="contact"/>
+    <file name="team.css" crc="193776453" ref="team"/>
+    <file name="sick-dreams.css" crc="105356361" ref="sick-dreams"/>
+  </folder>
+  <folder name="scripts">
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:tablet>team:tablet>games:tablet>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="tablet>index:tablet>team:tablet>games:tablet>contact:index:team:games:contact:blog:sick-dreams"/>
+    <file name="museutils.js" crc="183364071" ref="tablet>index:tablet>team:tablet>games:tablet>contact:index:team:games:contact:blog:sick-dreams"/>
+    <file name="jquery.watch.js" crc="71412426" ref="tablet>index:tablet>team:tablet>games:tablet>contact:index:team:games:contact:blog:sick-dreams"/>
+    <file name="webpro.js" crc="3803554875" ref="contact"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u621.php" crc="4002681956" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="465075537" seo="true" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="blank_card.png" crc="4036311130" seo="true" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u125-4.png" crc="3909333090" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u136-4.png" crc="3893308992" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u137-4.png" crc="4254719371" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u138-4.png" crc="81121498" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u331-4.png" crc="4031198521" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u164-4.png" crc="30172901" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u385-4.png" crc="437139776" ref="index"/>
+    <file name="u373-8.png" crc="4085873361" ref="index"/>
+    <file name="u386-7.png" crc="37506937" ref="index"/>
+    <file name="u256-4.png" crc="505936834" ref="index:team:games:contact:blog:sick-dreams"/>
+    <file name="u419-4.png" crc="320901141" ref="team"/>
+    <file name="u420-4.png" crc="156253040" ref="team"/>
+    <file name="u421-4.png" crc="4002514908" ref="team"/>
+    <file name="u422-4.png" crc="4086029323" ref="team"/>
+    <file name="ql1kwe-w_400x400.jpg" crc="219875298" seo="true" ref="team"/>
+    <file name="3.jpg" crc="4211186155" seo="true" ref="team"/>
+    <file name="lovesickjackal.jpg" crc="3960872388" seo="true" ref="team"/>
+    <file name="u463-4.png" crc="4143448558" ref="games"/>
+    <file name="u480-4.png" crc="153105636" ref="games"/>
+    <file name="logo2.png" crc="154152599" seo="true" ref="games:sick-dreams"/>
+    <file name="u618-4.png" crc="161877455" ref="contact"/>
+    <file name="u627-17.png" crc="311828129" ref="contact"/>
+    <file name="u627-17-r.png" crc="3844863548" ref="contact"/>
+    <file name="u627-17-m.png" crc="446077895" ref="contact"/>
+    <file name="u627-17-fs.png" crc="51175883" ref="contact"/>
+    <file name="u588-4.png" crc="241500697" ref="blog"/>
+    <file name="u549-4.png" crc="508720670" ref="sick-dreams"/>
+    <file name="u551-8.png" crc="534997242" ref="sick-dreams"/>
+    <file name="u553-5.png" crc="3880157505" ref="sick-dreams"/>
+    <file name="u554-5.png" crc="428766899" ref="sick-dreams"/>
+    <file name="u555-5.png" crc="4195122601" ref="sick-dreams"/>
+    <file name="u557-4.png" crc="3920153040" ref="sick-dreams"/>
+    <file name="u552-8.png" crc="68174263" ref="sick-dreams"/>
+    <file name="u556-4.png" crc="4117171064" ref="sick-dreams"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="games.css" crc="432531808" ref="tablet>games"/>
+      <file name="index.css" crc="432531808" ref="tablet>index"/>
+      <file name="contact.css" crc="432531808" ref="tablet>contact"/>
+      <file name="team.css" crc="432531808" ref="tablet>team"/>
+    </folder>
+    <file name="index.html" crc="3955672654" seo="true" mt="1469567757630" redirect="false"/>
+    <file name="team.html" crc="3840873151" seo="true" mt="1469567757631" redirect="false"/>
+    <file name="games.html" crc="509896151" seo="true" mt="1469567757632" redirect="false"/>
+    <file name="contact.html" crc="14912455" seo="true" mt="1469567757633" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3897483592" seo="true" mt="1470097586296" redirect="true"/>
+  <file name="team.html" crc="3999546641" seo="true" mt="1470097586296" redirect="true"/>
+  <file name="games.html" crc="4157901432" seo="true" mt="1470097586296" redirect="true"/>
+  <file name="contact.html" crc="171803628" seo="true" mt="1470097586296" redirect="true"/>
+  <file name="blog.html" crc="65625611" seo="true" mt="1470097586296" redirect="true"/>
+  <file name="sick-dreams.html" crc="4018658959" seo="true" mt="1470097586296" redirect="true"/>
+</manifest>
