@@ -1,0 +1,30 @@
+#u288,#u313,#u319,#u322,#u325,#u328,#u333
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u125-4,#u136-4,#u137-4,#u138-4,#u331-4,#u164-4
+{
+	position: relative;
+}
+
+#u125-4_img,#u136-4_img,#u137-4_img,#u138-4_img,#u331-4_img,#u164-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u88,#u139,#u255
+{
+	background-color: #000000;
+	position: relative;
+}
+
+#u256-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
