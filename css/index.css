@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #43FB4E;
+	color: #0000E2;
+	background-color: #206C14;
 }
 
 .html
@@ -71,7 +71,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 11px;
-	left: 501px;
+	left: 504px;
 }
 
 #u322
@@ -80,7 +80,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 11px;
-	left: 648px;
+	left: 650px;
 }
 
 #u325
@@ -89,7 +89,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 11px;
-	left: 793px;
+	left: 795px;
 }
 
 #u328
@@ -98,7 +98,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 11px;
-	left: 939px;
+	left: 941px;
 }
 
 #u333
@@ -107,7 +107,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 11px;
-	left: 1085px;
+	left: 1086px;
 }
 
 #u125-4
@@ -125,7 +125,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 93px;
-	left: 501px;
+	left: 504px;
 }
 
 #u137-4
@@ -134,7 +134,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 93px;
-	left: 647px;
+	left: 649px;
 }
 
 #u138-4
@@ -143,7 +143,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 94px;
-	left: 793px;
+	left: 795px;
 }
 
 #u331-4
@@ -152,7 +152,7 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 93px;
-	left: 939px;
+	left: 941px;
 }
 
 #u164-4
@@ -161,27 +161,21 @@
 	width: 137px;
 	margin-right: -10000px;
 	margin-top: 94px;
-	left: 1085px;
-}
-
-#pu139
-{
-	width: 0.01px;
-	margin-left: 20px;
-	margin-top: 13px;
+	left: 1086px;
 }
 
 #u139
 {
 	z-index: 2;
 	width: 1240px;
-	margin-right: -10000px;
+	margin-left: 20px;
+	margin-top: 13px;
 }
 
 #u139_position_content
 {
-	margin-bottom: -10px;
 	padding-top: 1px;
+	padding-bottom: 19px;
 }
 
 #u385-4
@@ -201,24 +195,26 @@
 	position: relative;
 }
 
+#u710
+{
+	z-index: 66;
+	width: 513px;
+	min-height: 320px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 364px;
+	margin-top: 57px;
+	position: relative;
+}
+
 #u386-7
 {
 	z-index: 59;
 	display: block;
 	vertical-align: top;
-	margin-top: 15px;
+	margin-top: 29px;
 	position: relative;
-}
-
-#u387
-{
-	z-index: 66;
-	width: 557px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 514px;
-	left: 341px;
 }
 
 #u255
